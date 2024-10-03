@@ -1,6 +1,5 @@
 Hi, I'm Otonbara Alfred Okolai 👋
 Web Developer | Cloud Enthusiast | Civil & Environmental Engineer
-Welcome to my GitHub profile! I'm a passionate developer with a background in Civil and Environmental Engineering and a keen interest in Cloud Computing, Python, and Web Development.
 
 🚀 Skills & Expertise
 Programming Languages: Python, JavaScript

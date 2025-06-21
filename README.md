@@ -1,6 +1,6 @@
 # Hi there, I'm Otonbara Alfred Okolai 👋
 
-I'm an enthusiastic front-end developer with a strong focus on creating responsive, interactive, and user-friendly web applications. My primary skill set includes **HTML**, **CSS**, **JavaScript**, **React.js**, **Bootstrap**, **Tailwind CSS**, and I am an **AWS Certified Cloud Practitioner**. I love bringing ideas to life through clean and efficient code, and I’m always excited to learn and grow in the field of web development.
+I'm an enthusiastic front-end developer with a strong focus on creating responsive, interactive, and user-friendly web applications. My primary skill set includes **HTML**, **CSS**, **JavaScript**, **React.js**, **Next.js** **Bootstrap**, **Tailwind CSS**, and I am an **AWS Certified Cloud Practitioner**. I love bringing ideas to life through clean and efficient code, and I’m always excited to learn and grow in the field of web development.
 
 ## 🚀 Technologies & Tools
 
@@ -14,7 +14,7 @@ I'm an enthusiastic front-end developer with a strong focus on creating responsi
 
 ## 🌱 Currently Learning
 
-- Expanding my knowledge in **frontend frameworks** and **backend development** with **Django**.
+- Expanding my knowledge in **frontend frameworks** and **Backend Development** with **Node.js**.
 - Working on projects to enhance **UI/UX** design skills.
 
 ## 🌍 Location
